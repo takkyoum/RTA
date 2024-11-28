@@ -1,2 +1,2 @@
-# testGit
-git test
+# RTA
+VideoRecording Timestamp Analyzer
